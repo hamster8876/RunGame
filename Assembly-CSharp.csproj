@@ -63,7 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\Scrips\BackgroundLoop.cs" />
+    <Compile Include="Assets\Scrips\GameManager.cs" />
+    <Compile Include="Assets\Scrips\Platform.cs" />
+    <Compile Include="Assets\Scrips\PlatformSpawner.cs" />
+    <Compile Include="Assets\Scrips\PlayerController.cs" />
+    <Compile Include="Assets\Scrips\ScrollingObject.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/user/Desktop/RunGameBase/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
